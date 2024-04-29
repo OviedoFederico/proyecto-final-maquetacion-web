@@ -10,6 +10,7 @@
 
 body {
   background: linear-gradient(245.59deg, #047a76 0%, #006a66 25%, #003735 75%);
+  overflow-x: hidden;
 }
 
 header {
