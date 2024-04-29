@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: white;
+  background: linear-gradient(245.59deg, #047a76 0%, #006a66 25%, #003735 75%);
 }
 
 header {
@@ -67,7 +67,6 @@ header img {
   height: 100%;
   width: 100%;
   min-height: 100vh;
-  background: linear-gradient(245.59deg, #047a76 0%, #006a66 25%, #003735 75%);
   position: relative;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -188,7 +187,6 @@ section {
   height: 100%;
   width: 100%;
   min-height: 50vh;
-  background: linear-gradient(245.59deg, #047a76 0%, #006a66 25%, #003735 75%);
   position: relative;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -210,7 +208,6 @@ section {
   height: 100%;
   width: 100%;
   min-height: 80vh;
-  background: linear-gradient(245.59deg, #047a76 0%, #006a66 25%, #003735 75%);
   position: relative;
   gap: 2rem;
   display: grid;
@@ -258,7 +255,6 @@ section {
   height: 100%;
   width: 100%;
   min-height: 50vh;
-  background: linear-gradient(245.59deg, #047a76 0%, #006a66 25%, #003735 75%);
   position: relative;
   gap: 2rem;
   display: flex;
@@ -304,14 +300,13 @@ footer {
   height: 100%;
   width: 100%;
   min-height: 4vh;
-  background: linear-gradient(245.59deg, #047a76 0%, #006a66 25%, #003735 75%);
   position: relative;
   align-items: center;
   gap: 2rem;
 }
 
 footer p {
-  color: grey;
+  color: white;
 }
 
 @media (max-width: 992px) {
