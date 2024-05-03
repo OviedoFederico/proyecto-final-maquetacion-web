@@ -23,7 +23,7 @@ header {
   align-items: center;
   justify-content: space-between;
   padding: 15px;
-  background-color: transparent;
+  /*background-color: transparent;*/
 }
 
 header img {
@@ -362,8 +362,8 @@ footer p {
 }
 
 @media (max-width: 600px) {
-  *{
-  overflow-x: hidden;
+  * {
+    overflow-x: hidden;
   }
   .menu-icon-action {
     display: block;
