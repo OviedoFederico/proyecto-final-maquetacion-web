@@ -23,7 +23,7 @@ header {
   align-items: center;
   justify-content: space-between;
   padding: 15px;
-  /*background-color: transparent;*/
+  background-color: transparent;
 }
 
 header img {
